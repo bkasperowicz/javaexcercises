@@ -12,6 +12,7 @@ Aplikacja ma zapytać użytkownika o login, hasło, imie i nazwisko.
 1. Połącz się ze swoją bazą danych z poziomu kodu - spytać Bartka
    * Dodaj paczkę *com.microsoft.sqlserver* do skryptu gradle
    * Połącz się z bazą danych przy użyciu klasy DriverManager
+   * [link](https://www.codejava.net/java-se/jdbc/connect-to-microsoft-sql-server-via-jdbc)
 
 Gdy Użytkownik wpisze już swoje dane aplikacja ma wypisać dane wszystkich zarejestrowanych użytkowików na konsolę
 
