@@ -18,12 +18,11 @@ Aplikacja ma zapytać użytkownika o login, hasło, imie i nazwisko.
    * [Usuwanie wierszy z tabeli](../src/main/java/com/javaexcercises/examples/sql/delete_statement.sql)
 
 
-1. Połącz się ze swoją bazą danych z poziomu kodu - spytać Bartka
-   * Dodaj paczkę *com.microsoft.sqlserver* do skryptu gradle
+1. Połącz się ze swoją bazą danych z poziomu kodu Java:
+   * Dodaj paczkę *com.microsoft.sqlserver* do skryptu gradle - spytać Bartka
    * Połącz się z bazą danych przy użyciu klasy DriverManager: [przykład](../src/main/java/com/javaexcercises/examples/DBConnectExample.java)
    * Dodaj dane do bazy po wpisaniu przez użytkownika: [przykład](../src/main/java/com/javaexcercises/examples/DBInsertExample.java)
    * Pobierz wszystkie wiersze z tabeli z bazy: [przykład](../src/main/java/com/javaexcercises/examples/DBSelectExample.java)
-   * [filmik instruktażowy](https://www.codejava.net/java-se/jdbc/connect-to-microsoft-sql-server-via-jdbc)
 
 Gdy Użytkownik wpisze już swoje dane aplikacja ma wypisać dane wszystkich zarejestrowanych użytkowików na konsolę
 
@@ -52,4 +51,3 @@ Oliwia Kasperowicz
 - [Tworzenie bazy danych](db_createdb.md)
 - [Pisanie skryptów do operacji na tabelach i danych](sms_scripts.md)
 - [Tworzenie tabeli w bazie danych](https://www.youtube.com/watch?v=OKUcgXXrFGU)
-- dostęp do bazy danych z poziomu kodu
