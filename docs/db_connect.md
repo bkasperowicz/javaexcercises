@@ -12,6 +12,6 @@
     |Login| sa|
     |Password| hasło takie, jakie jest zapisane w pliku *docker-compose.yml* w głównym katalogu repozytorium|
 
-   ![SQL Management Studio icon](img/sms_connect.png)
+   ![SQL Management Studio icon](img/sms_connect.PNG)
 
 1. Kliknij przycisk *Connect*
