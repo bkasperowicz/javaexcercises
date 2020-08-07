@@ -1,4 +1,4 @@
-## Zadanie 2 - SQL 1
+## Zadanie 2 - Rejestracja użytkownika z zapisem/odczytem z bazy danych
 
 Stwórz aplikację konsolową która będzie rejestrowała użytkownika (jak przy zwykłej rejestracji w dowolnym logowaniu).
 

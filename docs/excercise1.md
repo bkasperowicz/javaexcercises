@@ -1,4 +1,4 @@
-## Zadanie 1
+## Zadanie 1 - Rejestracja użytkownika
 
 Stwórz aplikację konsolową która będzie rejestrowała użytkownika (jak przy zwykłej rejestracji w dowolnym logowaniu).
 
